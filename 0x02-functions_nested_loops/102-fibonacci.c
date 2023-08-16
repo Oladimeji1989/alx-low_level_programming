@@ -22,7 +22,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%ld,", fib[a]);
+			printf("%ld, ", fib[a]);
 		}
 	}
 
