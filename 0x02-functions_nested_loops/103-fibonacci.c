@@ -14,7 +14,7 @@ int main(void)
 			tsum = tsum + v;
 		}
 		sum = u + v;
-		u + v;
+		u = v;
 		v = sum;
 	}
 	printf("%ld\n", tsum);
