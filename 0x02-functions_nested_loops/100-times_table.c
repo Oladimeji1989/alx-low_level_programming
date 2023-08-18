@@ -18,7 +18,7 @@ void print_times_table(int n)
 				c = b * a;
 				if (c <= 99)
 					_putchar(' ');
-				if (c <= 9)
+					if (c <= 9)
 					_putchar(' ');
 				if (c >= 100)
 				{
@@ -31,7 +31,7 @@ void print_times_table(int n)
 					}
 					_putchar((c % 10) + '0');
 				}
-			_putchar("\n",);
+			_putchar("\n" ,);
 			}
 		}
 }
