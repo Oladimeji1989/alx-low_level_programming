@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_square - draws a diagonal line on the terminal
+ * print_diagonal - draws a diagonal line on the terminal
  * @n: input numbers
  * Return: void
  */
