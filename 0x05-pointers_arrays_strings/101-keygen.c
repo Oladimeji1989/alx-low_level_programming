@@ -22,4 +22,5 @@ int main(void)
 		putchar(B);
 	}
 	putchar(2772 - A);
+	return (0);
 }
