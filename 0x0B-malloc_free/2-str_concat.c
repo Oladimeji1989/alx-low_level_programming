@@ -38,7 +38,7 @@ char *str_concat(char *s1, char *s2)
 		free(p);
 		return (NULL);
 	}
-	for (c = 0; c < a; a++)
+	for (c = 0; c < a; c++)
 	{
 		p[c] = s1[c];
 	}
