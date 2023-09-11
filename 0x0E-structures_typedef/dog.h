@@ -1,7 +1,7 @@
 #ifndef DOG_HEADER_FILE
 #define DOG_HEADER_FILE
 /**
- * dog - creating dog infomation using struct
+ * struct dog - creating dog infomation using struct
  * @name: dog name parameter
  * @age: dog age parameter
  * @owner: dog owner parameter
