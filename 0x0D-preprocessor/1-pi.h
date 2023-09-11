@@ -1,7 +1,7 @@
 #ifndef MACRO_HEADER_FILE
 #define MACRO_HEADER_FILE
 /**
- * File - 0-object_like_macro.h
+ * File - 1-pi.h
  */
-#define SIZE 1024
+#define PI 3.14159265359
 #endif
