@@ -7,6 +7,11 @@
  * @owner: dog owner parameter
  */
 
+/**
+ * dog_t - new name for the type struct dog
+ */
+typedef struct dog dog_t;
+
 struct dog
 {
 	char *name;
