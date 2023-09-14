@@ -1,5 +1,5 @@
-#ifndef VARIADIC_FUNCTION_HEADER_FILE
-#define VARIADIC_FUNCTION_HEADER_FILE
+#ifndef VARIADIC_FUNCTIONS_HEADER_FILE
+#define VARIADIC_FUNCTIONS_HEADER_FILE
 int sum_them_all(const unsigned int n, ...);
 void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
