@@ -40,7 +40,7 @@ void print_all(const char * const format, ...)
 					a++;
 					continue;
 			}
-			sept = ",";
+			sept = ", ";
 			a++;
 		}
 	}
