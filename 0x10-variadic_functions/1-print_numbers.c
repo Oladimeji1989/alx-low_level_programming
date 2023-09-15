@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 /**
- * print_number - to print numbers followed ny a new line
+ * print_numbers - to print numbers followed ny a new line
  * @separator: string separator parameter
  * @n: number parameter
  * @...: variable parameter
